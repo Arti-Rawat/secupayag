@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ServerTimeApiTest::testWithoutApiKey":7,"ServerTimeApiTest::testWithInvalidApiKey":7,"ServerTimeApiTest::testWithValidApiKey":8,"CalculatorTest::testAdd":8},"times":{"ServerTimeApiTest::testWithoutApiKey":0.029,"ServerTimeApiTest::testWithInvalidApiKey":0.021,"ServerTimeApiTest::testWithValidApiKey":0.014,"CalculatorTest::testAdd":0.011}}
